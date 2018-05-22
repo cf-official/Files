@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 800" style="enable-background:new 0 0 1000 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6F87D6;}
+</style>
+<symbol  id="CodeForgeLogo" viewBox="-61 -47 122 94">
+	<path class="st0" d="M-26-47v7c0,0,14-3,17,11c0,0,2,10-7,10s-26,0-45,18h46v6h76V-6c0,0-44,0-44-20c0,0,0-14,13-14h5v-7H-26z"/>
+	<polygon class="st0" points="-8,46 -12,41 -12,37 -1,26 -1,22 4,22 14,11 19,11 25,16 20,16 8,28 5,28 5,31 -7,43 -7,47 	"/>
+	<path class="st0" d="M-9,22c0,0-4-9-12-9c0,0,1-2,6-2s12,6,13,9L-9,22z"/>
+	<ellipse transform="matrix(0.5735 -0.8192 0.8192 0.5735 -25.6797 26.4653)" class="st0" cx="12.6" cy="37.9" rx="5.2" ry="4"/>
+</symbol>
+<use xlink:href="#CodeForgeLogo"  width="122" height="94" x="-61" y="-47" transform="matrix(7.7213 0 0 -7.7213 502 401.541)" style="overflow:visible;"/>
+</svg>
